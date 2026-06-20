@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hai frens
+### Currently learning about programming so I can create my own little side projects and tools :)
+I go by They/It and would prefer if you referred to me as Mox. 
 
 <!--
 **hypertextism/Hypertextism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
