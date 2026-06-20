@@ -7,9 +7,9 @@ I'm very *rust*y on programming as of right now, but once I get to amateur level
 
 But that isn't important, I'm sure...
 
-- **Shoutout to my friends: WahPlus, Hexahedron1, Dtpls, Ponali, GDPlayer1035**
+- **Shoutout to my friends: WahPlus, Hexahedron1, Dtpls, Ponali, GDPlayer1035, Slinx92**
 - Special shoutout to my girlfriend Fluxdrive 💚
-
+Uhm...
 - @lolretrograde:matrix.org (I don't bite!)
 <!--
 **hypertextism/Hypertextism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -24,4 +24,6 @@ I think you're quite awesome as well.
 
 BRO HOW THE ACTUAL FUCK DO I FORMAT THIS
 I AM GOING TO die Oh my god
+
+I meant to put Slinx there earlier but like I never did
 -->
