@@ -3,7 +3,8 @@ They/It, Nonbinary 🏳️‍⚧️
 
 I'm very *rust*y on programming as of right now, but once I get to amateur level I hope to make myself and hopefully others neat little things and doohickeys
 
-🍃 I'm into Computer Science (obviously), Meteorology, Nuclear Physics and especially Sci-Fi and Action!
+🍃 I'm into Computer Science (obviously), Meteorology, Nuclear Physics, and
+I love watching Sci-Fi and Action!
 
 But that isn't important, I'm sure...
 
@@ -26,4 +27,6 @@ BRO HOW THE ACTUAL FUCK DO I FORMAT THIS
 I AM GOING TO die Oh my god
 
 I meant to put Slinx there earlier but like I never did
+
+*Sticks my tongue out at you*
 -->
